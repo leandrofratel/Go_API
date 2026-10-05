@@ -1,0 +1,18 @@
+
+### Criando um produto
+POST http://localhost:8000/product
+Content-Type: application/json
+
+{
+    "name": "pizza",
+    "price": 100
+}
+
+### Criando um produto
+POST http://localhost:8000/product
+Content-Type: application/json
+
+{
+    "name": "Espetinho",
+    "price": 20
+}
